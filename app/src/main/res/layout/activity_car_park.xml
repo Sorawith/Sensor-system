@@ -12,18 +12,18 @@
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@drawable/temp1">
+        android:layout_height="match_parent">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Temp"
+            android:text="CarPark"
             android:id="@+id/textView6"
             android:layout_marginTop="20dp"
             android:textSize="30sp"
             android:textStyle="bold"
-            android:layout_gravity="center_horizontal" />
+            android:layout_gravity="center_horizontal"
+            android:textColor="#19f420" />
 
     </LinearLayout>
 </RelativeLayout>
